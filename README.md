@@ -56,9 +56,9 @@ Analyze YouTube trending video datasets across multiple countries to uncover pat
 ---
 
 ## 📂 Repository Structure
-
+```
 ├── data/ │   ├── raw/ │   └── cleaned/ ├── notebooks/ │   ├── sentiment_analysis.ipynb │   └── category_ranking.sql ├── visuals/ │   ├── time_series_plots/ │   └── region_comparisons/ ├── dashboard/ │   └── youtube_trends.twbx ├── report/ │   └── final_summary.pdf └── README.md
-
+```
 ---
 
 ## 🚀 How to Run
