@@ -1,18 +1,18 @@
-# 📊 YouTube Trending Video Analytics
+# YouTube Trending Video Analytics
 
-## 🎯 Objective
+## Objective
 Analyze YouTube trending video datasets across multiple countries to uncover patterns in genre popularity, viewer sentiment, and regional content dynamics. This project combines data cleaning, sentiment analysis, SQL insights, and dashboard storytelling to deliver actionable insights for content creators and marketers.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Python**: Data preprocessing, sentiment analysis, visualizations (Matplotlib, Seaborn)
 - **SQL**: Category-level ranking and aggregation
 - **Tableau**: Interactive dashboards and region-wise comparisons
 
 ---
 
-## 🧭 Workflow Overview
+## Workflow Overview
 
 ### 1. Data Cleaning & Standardization
 - Unified schema across country-specific datasets
@@ -32,7 +32,7 @@ Analyze YouTube trending video datasets across multiple countries to uncover pat
 
 ---
 
-## 📈 Key Deliverables
+## Key Deliverables
 
 | Artifact | Description |
 |---------|-------------|
@@ -42,7 +42,7 @@ Analyze YouTube trending video datasets across multiple countries to uncover pat
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### 🎛️ Dashboard Overview  
 ![YouTube Trending Dashboard](images\Dashboard.jpeg)
@@ -55,13 +55,13 @@ Analyze YouTube trending video datasets across multiple countries to uncover pat
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 ├── data/ │   ├── raw/ │   └── cleaned/ ├── notebooks/ │   ├── sentiment_analysis.ipynb │   └── category_ranking.sql ├── visuals/ │   ├── time_series_plots/ │   └── region_comparisons/ ├── dashboard/ │   └── youtube_trends.twbx ├── report/ │   └── final_summary.pdf └── README.md
 ```
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**  
    `git clone https://github.com/your-username/youtube-trending-analytics.git`
