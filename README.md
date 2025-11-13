@@ -1,7 +1,7 @@
 # YouTube Trending Video Analytics
 
 ## Objective
-Analyze YouTube trending video datasets across multiple countries to uncover patterns in genre popularity, viewer sentiment, and regional content dynamics. This project combines data cleaning, sentiment analysis, SQL insights, and dashboard storytelling to deliver actionable insights for content creators and marketers.
+_Analyze YouTube trending video datasets across multiple countries to uncover patterns in genre popularity, viewer sentiment, and regional content dynamics. This project combines data cleaning, sentiment analysis, SQL insights, and dashboard storytelling to deliver actionable insights for content creators and marketers._
 
 ---
 
